@@ -23,6 +23,7 @@ Customer Segmentation-Young adults(ages 18-25)are driving high end mobile sales 
 UPI with26.36% of market capture and increase of 57% in usage from the previous year.Its seamless, one-click transaction process is driving the rapid growth of UPI-based transactions nationwide.(UPI payment method shows growing preference for faster, secure payment methods).
 
 |SKILLS GAINED|
+
 1-DATA UNDERSTANDING 
 2-DATA IMPORT&CLEANING WITH POWER QUERY
 3-DATA MODELING - Establishing RELATIONSHIP ACROSS TABLES
